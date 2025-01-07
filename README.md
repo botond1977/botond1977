@@ -1,3 +1,3 @@
 # botond1977 GitHub Repository
 
-Üdvözöllek a botond1977 GitHub repóban!
+Welcome to the Botond1977 repo!
